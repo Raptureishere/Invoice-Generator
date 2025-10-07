@@ -1,0 +1,5 @@
+{
+  "name": "AI Invoice Generator",
+  "description": "A professional invoice generation tool powered by AI. Users can sign up, purchase credits, and create, edit, and download invoices in PDF format. Features secure authentication and Paystack integration for payments.",
+  "requestFramePermissions": []
+}
